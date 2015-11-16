@@ -1,3 +1,2 @@
-# Team_test
-My favorite candy is stuff
-especially stuff
+My favorite candy is delicious, especially because it is yummy.
+
